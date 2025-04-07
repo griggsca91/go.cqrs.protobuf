@@ -1,7 +1,8 @@
-# Go.CQRS [![license](https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000)](https://github.com/jetbasrawi/go.cqrs/blob/master/LICENSE.md) [![Go Report Card](https://goreportcard.com/badge/github.com/jetbasrawi/go.cqrs)](https://goreportcard.com/report/github.com/jetbasrawi/go.cqrs) [![GoDoc](https://godoc.org/github.com/jetbasrawi/go.cqrs?status.svg)](https://godoc.org/github.com/jetbasrawi/go.cqrs)
+# Go.CQRS.Protobuf
 
+This is a fork of the awesome [jetbasrawi/go.cqrs repo](https://github.com/jetbasrawi/go.cqrs).  The goal of this fork is to add protobuf support to manage and generate event and command code with the protobuf schema
 
-## A Golang CQRS Reference implementation
+## A Golang CQRS Reference implementation with Protobuf
 
 Go.CQRS provides interfaces and implementations to support a CQRS implementation in Golang. The examples 
 directory contains a sample application that demonstrates how to use Go.CQRS.

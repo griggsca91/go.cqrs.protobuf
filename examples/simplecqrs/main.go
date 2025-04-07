@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jetbasrawi/go.cqrs"
-	"github.com/jetbasrawi/go.cqrs/examples/simplecqrs/simplecqrs"
+	ycq "github.com/griggsca91/go.cqrs.protobuf"
+	"github.com/griggsca91/go.cqrs.protobuf/examples/simplecqrs/simplecqrs"
 )
 
 var (
@@ -279,4 +279,3 @@ func setupHandlers() *http.ServeMux {
 
 	return mux
 }
-

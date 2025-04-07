@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/jetbasrawi/go.cqrs"
-	"github.com/jetbasrawi/go.geteventstore"
+	ycq "github.com/griggsca91/go.cqrs.protobuf"
+	goes "github.com/jetbasrawi/go.geteventstore"
 )
 
 // InventoryItemRepo is a repository specialized for persistence of

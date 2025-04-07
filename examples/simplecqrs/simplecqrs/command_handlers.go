@@ -4,7 +4,7 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/jetbasrawi/go.cqrs"
+	ycq "github.com/griggsca91/go.cqrs.protobuf"
 )
 
 type InventoryItemRepository interface {
